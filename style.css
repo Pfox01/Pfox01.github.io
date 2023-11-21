@@ -1,0 +1,26 @@
+header {
+    background-color: #da7707;
+    color: #FFF; 
+    text-align: center;
+    width: 100%;
+    margin-top: 0;
+    padding: 0.5rem 0;
+}
+
+body, main {
+    display: grid;
+    justify-items: center;
+    margin: 0;
+    padding: 0;
+    color: #433E39; 
+}
+
+main {
+    margin-top: 10px;
+    background-color: #FFDAB9; 
+    width: 80%;
+    padding: 2rem;
+    border: 3px;
+    border-style: solid;
+    border-radius: 1rem;
+}
